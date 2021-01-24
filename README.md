@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=keoy7am)](https://github.com/anuraghazra/github-readme-stats)
+[![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=keoy7am)](https://github.com/keoy7am/)
 
 
 <!--
